@@ -1,0 +1,14 @@
+#map {
+    height: 100%;
+    width: 50%;
+    float: left;
+  }
+  
+  #panorama {
+    height: 100%;
+    width: 50%;
+    float: left;
+  }
+  html, body {
+    height: 100%;
+    }
